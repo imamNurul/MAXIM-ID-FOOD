@@ -1,0 +1,6 @@
+export const submitConstants = {
+    PREPARE_START: 'PREPARE_START',
+    PREPARE_END: 'PREPARE_END',
+    SUBMIT_START: 'SUBMIT_START',
+    SUBMIT_END: 'SUBMIT_END'
+};
